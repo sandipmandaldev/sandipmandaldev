@@ -5,8 +5,7 @@
         Student of Alipurduar Government Engineering and Management College
     </span>
 </h2>
-<h2 align="center" style="color: #007BFF; font-family: Arial, sans-serif;">
-    Student of Alipurduar Government Engineering and Management College<br>
+<h2 align="center">
     Department of Artificial Intelligence
 </h2>
 <h3 align="center">AI | Python Developer | Building Web Applications With Passion.</h3>
