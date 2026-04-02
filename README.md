@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sandip Mandal</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=007BFF&size=24&center=true&vCenter=true&width=800&lines=Student%20of%20Alipurduar%20Government%20Engineering%20and%20Management%20College" />
-</p>
 <h2 align="center">
+    Student of Alipurduar Government Engineering and Management College
+  <br>
     Department of Artificial Intelligence
 </h2>
 <h3 align="center">AI | Python Developer | Building Web Applications With Passion.</h3>
