@@ -2,8 +2,11 @@
 
 <h2 align="center">
     🎓 Student at Alipurduar Government Engineering and Management College
+    <br>
+    <p>
+        🤖 Department of Artificial Intelligence
+    </p>
 </h2>
-
 <p>
     🤖 Department of Artificial Intelligence
 </p>
