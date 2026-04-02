@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sandip Mandal</h1>
 
 <h2 align="center">
-    Student of Alipurduar Government Engineering and Management College
-  <br>
-    Department of Artificial Intelligence
+    🎓 Student at Alipurduar Government Engineering and Management College
 </h2>
+
+<h3 align="center">
+    🤖 Department of Artificial Intelligence
+</h3>
 <h3 align="center">AI | Python Developer | Building Web Applications With Passion.</h3>
 
 <p align="center">
