@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sandip Mandal</h1>
 
 <h2 align="center">
-    <span style="color: #007BFF;">
+    <font color="blue">
         Student of Alipurduar Government Engineering and Management College
-    </span>
+    </font>
 </h2>
 <h2 align="center">
     Department of Artificial Intelligence
