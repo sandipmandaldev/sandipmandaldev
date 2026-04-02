@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandip Mandal</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Student-Alipurduar%20Government%20Engineering%20and%20Management%20College-007BFF?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?color=007BFF&size=24&center=true&vCenter=true&width=800&duration=0&pause=999999&lines=Student+of+Alipurduar+Government+Engineering+and+Management+College" />
 </p>
 <h2 align="center">
     Department of Artificial Intelligence
