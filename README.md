@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sandip Mandal</h1>
 
-<h2 align="center">
+<h6 align="center">
     <font color="blue">
         Student of Alipurduar Government Engineering and Management College
     </font>
-</h2>
+</h6>
 <h2 align="center">
     Department of Artificial Intelligence
 </h2>
