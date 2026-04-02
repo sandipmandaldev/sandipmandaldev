@@ -7,8 +7,8 @@
         🤖 Department of Artificial Intelligence
     </h6>
 </h2>
-<h3 align="center">AI | Python Developer | Building Web Applications With Passion.</h3>
 
+<h3 align="center">AI | Python Developer | Building Web Applications With Passion.</h3>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=24&duration=2000&pause=1000&color=36BCF7&center=true&width=500&lines=Full+Stack+Web+Developer;Python+Django+Specialist;Continuous+Learner" alt="Typing SVG" />
