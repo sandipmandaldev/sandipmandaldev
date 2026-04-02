@@ -3,13 +3,10 @@
 <h2 align="center">
     🎓 Student at Alipurduar Government Engineering and Management College
     <br>
-    <p>
+    <h6>
         🤖 Department of Artificial Intelligence
-    </p>
+    </h6>
 </h2>
-<p>
-    🤖 Department of Artificial Intelligence
-</p>
 <h3 align="center">AI | Python Developer | Building Web Applications With Passion.</h3>
 
 <p align="center">
