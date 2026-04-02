@@ -4,9 +4,9 @@
     🎓 Student at Alipurduar Government Engineering and Management College
 </h2>
 
-<h3 align="center">
+<p>
     🤖 Department of Artificial Intelligence
-</h3>
+</p>
 <h3 align="center">AI | Python Developer | Building Web Applications With Passion.</h3>
 
 <p align="center">
